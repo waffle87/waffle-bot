@@ -13,4 +13,4 @@ async def on_message(message):
     if message.content.startswith('$666'):
         await message.channel.send('rad')
 
-client.run('ODM5MjIxMjM2NDI4NzAxNzM2.YJGfrg.PV-2R6BV0lpC_rs3KZ8WfPDs2f0')
+client.run('tkn')
