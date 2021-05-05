@@ -1,0 +1,22 @@
+{
+  "name": "waffle_bot_js",
+  "version": "1.0.0",
+  "description": "waffle's discord bot ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsWaffIe/waffle-bot.git"
+  },
+  "author": "Waffle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsWaffIe/waffle-bot/issues"
+  },
+  "homepage": "https://github.com/ItsWaffIe/waffle-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
